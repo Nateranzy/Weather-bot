@@ -139,4 +139,3 @@ pm2-startup install
 pm2 save
 ```
 
-## Estrutura do projeto
